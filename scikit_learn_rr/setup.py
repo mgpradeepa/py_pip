@@ -26,7 +26,7 @@ else:
 # machinery.
 builtins.__SKLEARN_SETUP__ = True
 
-DISTNAME = 'scikit-learn'
+DISTNAME = 'scikit-learn_runnr'
 DESCRIPTION = 'A set of python modules for machine learning and data mining'
 with open('README.rst') as f:
     LONG_DESCRIPTION = f.read()
